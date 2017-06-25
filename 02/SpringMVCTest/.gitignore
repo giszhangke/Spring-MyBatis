@@ -1,0 +1,15 @@
+# Eclipse
+.metadata
+.classpath
+.eclipse/
+.idea/
+.project
+.revision/
+.settings/
+.externalToolBuilders/
+local.properties
+.recommenders
+*.launch
+build/
+target/
+out/

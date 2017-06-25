@@ -1,0 +1,30 @@
+# Git
+*.orij
+*.rej
+
+# Eclipse
+.metadata
+.classpath
+.eclipse/
+.idea/
+.project
+.revision/
+.settings/
+.externalToolBuilders/
+local.properties
+.recommenders
+*.launch
+build/
+target/
+out/
+
+# Other
+*~
+logs/
+*.out
+*.log
+*.bak
+*.tmp
+tmp/**
+tmp/**/*
+*.swp
