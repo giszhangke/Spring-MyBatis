@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Welcome</title>
+<title>Insert title here</title>
 </head>
 <body>
-	<!-- EL表达式 -->
-	<h1>${requestScope.message}</h1>
+	<h1>哈哈哈哈</h1>
 </body>
 </html>
